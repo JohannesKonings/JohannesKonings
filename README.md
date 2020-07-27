@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![JohannesKonings' github stats](https://github-readme-stats.vercel.app/api?username=JohannesKonings&show_icons=true)](https://github.com/JohannesKonings/github-readme-stats)
+[![JohannesKonings' github stats](https://github-readme-stats.vercel.app/api?username=JohannesKonings&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![JohannesKonings' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesKonings)](https://github.com/JohannesKonings/github-readme-stats)
-
-Stats from https://github.com/anuraghazra/github-readme-stats
+[![JohannesKonings' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesKonings)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JohannesKonings/JohannesKonings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
